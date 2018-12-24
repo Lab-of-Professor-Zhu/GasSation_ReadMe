@@ -6,7 +6,7 @@ Label工具：https://github.com/CSAILVision/LabelMeAnnotationTool [[Project Pag
   
 YOLO_v3官方darknet网址：https://pjreddie.com/darknet/yolo/  
   
-目前项目地址：服务器 /home/computer/GasStation/YOLOv3_PyTorch/  
+目前项目地址：服务器 /home/computer/GasStation/
   
 conda虚拟环境为: source activate gas  
   
